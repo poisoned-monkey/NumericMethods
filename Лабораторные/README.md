@@ -58,7 +58,22 @@
 
 / Finite difference method and shooting method /
 
+### Lab_5
+Решение уравнения параболического типа
+
+/ Solution of a parabolic equation /
+
+### Lab_6
+Решение уравнения гиперболического типа
+
+/ Solution of a hyperbolic equation /
+
 ### matrix.py
 Класс "Матрица"
 
 / The class of matrix /
+
+### graphics_for_labs.py
+Класс для отрисовки графиков для лабораторных работ
+
+/ Class for construction of graphics for laboratory work /
